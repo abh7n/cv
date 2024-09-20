@@ -1,0 +1,27 @@
+body {
+    border: 2px black solid;
+    margin: 30px;
+    padding: 20px;
+}
+
+.mainhead {
+    text-align: center;
+
+}
+
+.subhead {
+    color: rgb(52, 158, 52);
+    text-decoration: underline;
+}
+
+.name {
+    color: rgb(71, 141, 165);
+}
+
+h2 {
+    line-height: 20px;
+}
+
+h3 {
+    line-height: 10px;
+}
