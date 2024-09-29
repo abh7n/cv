@@ -1,5 +1,8 @@
 # Curriculum Vitae
 
+![Image description](cv.png)
+
+
 A responsive and customizable HTML/CSS template for showcasing your professional profile.
 
 ## Features
